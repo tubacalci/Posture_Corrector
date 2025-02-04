@@ -6,7 +6,8 @@ This project detects **bad posture** and **drowsiness** using **computer vision*
 
 ## 📌 Project Description
 
-The **Posture Corrector System** captures live video from a webcam and processes the frames to analyze key points on the human body. The system:
+The **Posture Corrector System** captures live video from a webcam and processes the frames to analyze key points on the human body. 
+The system:
 
 - Detects **posture** issues by calculating neck flexion and shoulder alignment angles.
 - Identifies **drowsiness** by tracking eye aspect ratio (EAR) and triggering alerts if eye closure is prolonged.
